@@ -31,3 +31,14 @@ export async function GET(request: NextRequest) {
 }
 ```
 ---
+
+### heading...
+![](https://imgur.com/X1iMvgc.png)
+
+```bash
+const readData = await prisma.employee.findMany({
+            skip: 1,
+            take: 3,
+        });
+```
+---
