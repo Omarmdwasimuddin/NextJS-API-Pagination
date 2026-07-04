@@ -1,6 +1,6 @@
 ## NextJS API---> Pagination
 
-### Heading...
+### Prisma Cursor Pagination using findMany()
 ![](https://imgur.com/2HBdLAI.png)
 
 ```bash
@@ -32,7 +32,7 @@ export async function GET(request: NextRequest) {
 ```
 ---
 
-### heading...
+### Prisma Pagination using skip & take
 ![](https://imgur.com/X1iMvgc.png)
 
 ```bash
